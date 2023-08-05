@@ -1,0 +1,2 @@
+[console_scripts]
+sortfilesfolders = clean_folder.clean:clean_folder_
